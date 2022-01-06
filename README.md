@@ -7,7 +7,7 @@ I unfortunately cant do the "list" thing. But I have guided you to the correct p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Map API Part 2 (For completing this project): https://www.youtube.com/watch?v=pWQeUPog2hU
 
 ## For Poojit: 
-Poojit, this is for you. This is the UI design. Add as much animations as you can and make it look cool. Since I have a little work I unfortunately cant do the "list" thing. But I have guided you to the correct path. (If there is any queries or bugs, please text me)  
+Poojit, this is for you. This is the UI design. Add as much animations as you can and make it look cool. Since I have a little work I unfortunately cant do the "list" thing. But I have guided you to the correct path. (If there is any queries or bugs, please text me) <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NOTE: Each frame is a .html page </b> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design: https://www.figma.com/file/pewRYH5eXid9oOTj43m4DZ/PAPER?node-id=0%3A1
 
 ## For Both:
