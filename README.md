@@ -11,6 +11,7 @@ Poojit, this is for you. This is the UI design. Add as much animations as you ca
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design: https://www.figma.com/file/pewRYH5eXid9oOTj43m4DZ/PAPER?node-id=0%3A1
 
 ## For Both:
-Please create a pull request in the tag of "Development" after completing your code. (I hope you both know what is Pull Request).
+Please create a pull request in the tag of "Development" after completing your code. (I hope you both know what is Pull Request).   
+For development purposes, use this repository as your base. Thanks!
 
 # Extremely Sorry 🙏
